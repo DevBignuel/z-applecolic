@@ -6,6 +6,12 @@ TemplateMo 592 glossy touch
 https://templatemo.com/tm-592-glossy-touch
 
 */
+.footer-links a {
+  color: #00aaff; /* Bleu glacier Apple */
+  font-size: 24px;
+  margin: 0 10px;
+  text-decoration: none;
+}
 
 * {
     margin: 0;
